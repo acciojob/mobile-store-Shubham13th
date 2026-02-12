@@ -7,7 +7,7 @@ const ProductCard = () => {
     const history = useHistory()
 
     const handleCardClick = (productId) => {
-        history.push(`/product/${productId}`)
+        history.push(`/products/${productId}`)
     }
 
     return (
