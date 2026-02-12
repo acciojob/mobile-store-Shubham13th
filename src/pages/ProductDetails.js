@@ -36,6 +36,7 @@ const ProductDetails = () => {
         <div style={{ flex: 1 }}>
           <h2>{product.name}</h2>
           <p style={{ fontSize: '18px', color: '#666' }}>Color: {product.color}</p>
+          <p style={{ fontSize: '16px', color: '#333' }}>{product.description}</p>
           <h3 style={{ fontSize: '32px', color: '#2c3e50', margin: '20px 0' }}>
             ${product.price}
           </h3>

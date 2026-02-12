@@ -13,7 +13,7 @@ const App = () => {
       <Navbar />
       <Switch>
         <Route exact path="/" component={ProductCard} />
-        <Route path="/product/:id" component={ProductDetails} />
+        <Route path="/products/:id" component={ProductDetails} />
         <Route path="/admin" component={AdminPanel} />
       </Switch>
     </BrowserRouter>
