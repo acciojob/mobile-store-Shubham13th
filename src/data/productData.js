@@ -62,22 +62,6 @@ const products = [
         description: "The Huawei P50 Pro features a 6.7-inch OLED display, Kirin 9000S processor, and a versatile quad-camera system for exceptional photography.",
         color: "Golden Black",
         price: 999,
-    },
-    {
-        id: 9,
-        image: "https://www.dxomark.com/wp-content/uploads/medias/post-95593/Apple-iPhone-13-Pro-Max-featured-image-packshot-review.jpg",
-        name: "Asus ROG Phone 5",
-        description: "The Asus ROG Phone 5 features a 6.78-inch AMOLED display, Snapdragon 888 processor, and a versatile quad-camera system for exceptional photography.",
-        color: "Phantom Black",
-        price: 999,
-    },
-    {
-        id: 10,
-        image: "https://www.dxomark.com/wp-content/uploads/medias/post-95593/Apple-iPhone-13-Pro-Max-featured-image-packshot-review.jpg",
-        name: "Realme GT 2 Pro",
-        description: "The Realme GT 2 Pro features a 6.78-inch AMOLED display, Snapdragon 888 processor, and a versatile quad-camera system for exceptional photography.",
-        color: "Steel Black",
-        price: 599,
     }
 ]
 
