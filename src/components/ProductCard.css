@@ -4,6 +4,8 @@
     flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
+    max-width: 800px;
+    margin: 20px auto;
 }
 .card {
     border: 1px solid #000;

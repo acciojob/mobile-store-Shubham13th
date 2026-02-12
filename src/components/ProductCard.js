@@ -14,8 +14,8 @@ const ProductCard = () => {
         <div className='card-layout'>
             {productData.map((product) => {
                 return (
-                    <div 
-                        className='card' 
+                    <div
+                        className='card'
                         key={product.id}
                         onClick={() => handleCardClick(product.id)}
                         style={{ cursor: 'pointer' }}
