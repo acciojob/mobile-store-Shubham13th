@@ -1,0 +1,28 @@
+.card-layout {
+    display: grid;
+    grid-template-columns: auto auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.card {
+    border: 1px solid #000;
+    width: 250px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.card-image {
+    width: 100%;
+    height: auto;
+}
+
+.buy-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 5px;
+}
